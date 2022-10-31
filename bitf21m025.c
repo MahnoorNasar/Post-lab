@@ -41,5 +41,5 @@ int main()
             }
         }
         printf ("\n");
-        getch;
+        printf("Eisha");
 }
